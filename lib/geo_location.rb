@@ -1,4 +1,6 @@
-require 'active_support/inflector'
+# require 'active_support/inflector'
+# require 'active_support'
+
 
 require 'geo_location/version'
 require 'geo_location/countries'
