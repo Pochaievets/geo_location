@@ -1,5 +1,4 @@
-require './helper'
-require 'pry'
+require 'helper'
 
 class TestGeoLocation < Test::Unit::TestCase
   
